@@ -1,4 +1,4 @@
-public class typecasting_05 {
+public class typecasting_17 {
 
     public static void main(String args[]) {
         char a = 'p';

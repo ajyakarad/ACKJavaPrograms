@@ -1,4 +1,4 @@
-class string3 {
+class string14 {
     public static void main(String args[])
     {
         String str1 = "I LOVE CODING...";
